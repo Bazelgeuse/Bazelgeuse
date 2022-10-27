@@ -1,11 +1,13 @@
 # README
 <img src="https://user-images.githubusercontent.com/43162532/198289758-966b1759-77f7-4059-99a0-0fba35fa0573.jpg" width="300" height="400"/>
+
 ## 안녕하세요!<br>한림대학교에서 재학중인 박신우입니다!:smile:
 - Name : Park sin woo
 - email : 98psw@naver.com
 - Github : [github.com/Bazelgeuse](https://github.com/Bazelgeuse)
 - 취미 : 게임, 책 읽기
 - 군필 여부 : 아동센터 사회복무요원 1년 반근무
+
 ## :book:2022년 수강 과목(전공)
 ||과목명|
 |------|------|
@@ -14,3 +16,7 @@
 |3|VR/AR/게임제작기초|
 |4|오픈소스SW개발도구활용|
 |5|VR/AR/게임제작기초|
+
+## 2022년 주요활동
+ - VR/AR 수업 게임 만들기
+ - 2022 SW Week 오픈소스 소프트웨어 경연 대회
