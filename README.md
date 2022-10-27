@@ -1,4 +1,4 @@
-# 인적사항
+# README
 ![KakaoTalk_20220719_111802181](https://user-images.githubusercontent.com/43162532/198289758-966b1759-77f7-4059-99a0-0fba35fa0573.jpg)
 ## 안녕하세요!<br>한림대학교에서 재학중인 박신우입니다!:smile:
 - Name : Park sin woo
