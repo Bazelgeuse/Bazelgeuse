@@ -6,7 +6,7 @@
 - Github : [github.com/Bazelgeuse](https://github.com/Bazelgeuse)
 - 취미 : 게임, 책 읽기
 - 군필 여부 : 아동센터 사회복무요원 1년 반근무
-## 2022년 수강 과목(전공)
+## :book:2022년 수강 과목(전공)
 ||과목명|
 |------|------|
 |1|텍스트정보처리|
